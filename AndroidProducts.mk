@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lithium.mk
+    $(LOCAL_DIR)/mk_lithium.mk
